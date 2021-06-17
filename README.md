@@ -1,4 +1,9 @@
-# README
+# FRIENDS LIST APP README
+
+Hello my name is Caleb O
+
+This is my Ruby on Rails Friends List App!
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -22,3 +27,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+https://calebo.xyz
